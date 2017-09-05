@@ -249,18 +249,22 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 17 : Nom du projet
+# Équipe 17 : Le Grand Palace  
 
-Description / proposition de valeur unique
+C'est un casino avec 3 mini-jeux : Une roulette, un BlackJack et une machine à sous
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Doublecourt Louis
+* Descamps Gauthier
+* Plaisance Baptiste
+* Tertrais Cyprien
+* Drame Mariama
+* Meriaux Quentin
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/tertraic/Casino
 
 # Équipe 18 : GetYourCrush
 
